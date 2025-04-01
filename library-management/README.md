@@ -6,7 +6,7 @@ to manage books, users, and transactions. It allows users to **add, update, sear
 through a web-based UI.
 
 ## Features 🚀
-- 📌 **User Authentication** (Create user by clicking add user button)
+- 📌 **User Authentication** (For new user, "Click here".)
 - 📌 **Book Management** (Add, Update, Delete, Search)
 - 📌 **Issue & Return Books** with due date tracking
 - 📌 **Database Integration** using PostgreSQL & Hibernate
