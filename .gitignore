@@ -1,0 +1,4 @@
+# Ignore compiled binaries and artifacts
+/target/
+*.jar
+*.war
